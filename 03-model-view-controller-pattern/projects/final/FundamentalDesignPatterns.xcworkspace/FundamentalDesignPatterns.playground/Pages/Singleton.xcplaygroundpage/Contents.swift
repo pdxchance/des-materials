@@ -11,7 +11,7 @@
  
  ## Code Example
  */
-import UIKit
+import UIKit 
 
 // Singleton pattern, you cannot create more than one instance
 let app = UIApplication.shared
