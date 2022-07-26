@@ -15,7 +15,7 @@
  
  ## Code Example
  */
-import UIKit
+import UIKit  
 
 // MARK: - Address
 public struct Address {
